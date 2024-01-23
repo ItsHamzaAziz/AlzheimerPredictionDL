@@ -1,6 +1,6 @@
 # AlzheimerPredictionDL
 
-# Project Oobjective:
+# Project Objective:
 Using Deep Learning to classify MRI images regarding Alzheimer's Disease
 
 # Libraries Used:
